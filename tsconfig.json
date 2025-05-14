@@ -3,6 +3,6 @@
     "noEmit": true,
     "target": "esnext",
     "module": "nodenext",
-    "jsx": "preserve"
+    "jsx": "react-jsx"
   }
 }
