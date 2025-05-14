@@ -1,5 +1,11 @@
 # TRMNL Node.js server using JSX or HTML
 
+Technologies used:
+- [Express.js](https://expressjs.com/) as API server
+- [Satori](https://www.npmjs.com/package/satori) for rendering JSX (or HTML) to SVG
+- [resvg-js](https://www.npmjs.com/package/@resvg/resvg-js) for rendering SVG to PNG
+
+
 ## Prerequisites
 To run your TRMNL server you need any form of server (VM, droplet, pod, instance) somewhere, for example AWS, Google Cloud, Digital Ocean.
 
