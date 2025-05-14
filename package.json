@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "tsx src/Server.ts",
+    "watch": "tsx watch src/Server.ts"
+  },
   "type": "module",
   "dependencies": {
     "@resvg/resvg-js": "^2.6.2",
