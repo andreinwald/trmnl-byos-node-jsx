@@ -15,8 +15,6 @@ To run your TRMNL server you need any form of server (VM, droplet, pod, instance
 3. You can preview result locally
 4. After changes you should deploy your version of this repo to your server
 
-
-
-
-------
-Inspired by [byos_next](https://github.com/usetrmnl/byos_next) with motivation to do in a simpler way
+## Design limitations
+Satori uses the same Flexbox layout engine as React Native, and it’s not a complete CSS implementation.<br>
+However, it supports a subset of the spec that covers most common [CSS features](https://github.com/vercel/satori?tab=readme-ov-file#css)
